@@ -1,0 +1,64 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand: #C9A227;
+  --color-brand-dark: #B08D1E;
+  --color-accent: #000000;
+  --color-surface: #1a1a1a;
+  --color-surface-light: #222222;
+  --color-beige: #1a1a1a;
+  --color-border: #333333;
+  --font-display: 'Georgia', serif;
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+    transform: scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.animate-fade-in {
+  animation: fade-in 0.3s ease-out;
+}
+
+@media screen and (max-width: 768px) {
+  input[type="text"],
+  input[type="email"],
+  input[type="tel"],
+  input[type="number"],
+  input[type="date"],
+  select,
+  textarea {
+    font-size: 16px !important;
+  }
+}
+
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+.hero-video {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: system-ui, -apple-system, sans-serif;
+  background: #111111;
+  color: #e5e5e5;
+  margin: 0;
+}

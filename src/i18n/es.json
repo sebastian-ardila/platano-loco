@@ -1,0 +1,149 @@
+{
+  "nav": {
+    "menu": "Carta",
+    "reservations": "Reservas",
+    "schedule": "Horarios",
+    "history": "Historia",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "phrase": "PLÁTANO MADURO RECETA DE MI APÁ",
+    "viewMenu": "Ver nuestra carta",
+    "reserveTable": "Reservar mesa",
+    "rateGoogle": "Opinar en Google",
+    "rateTripAdvisor": "Opinar en TripAdvisor"
+  },
+  "menu": {
+    "title": "Nuestra Carta",
+    "viewDish": "Ver plato",
+    "add": "Agregar",
+    "vegetarian": "Vegetariano"
+  },
+  "cart": {
+    "title": "Tu Pedido",
+    "empty": "Tu carrito está vacío",
+    "continue": "Continuar",
+    "deleteOrder": "Eliminar tu pedido",
+    "back": "Volver",
+    "total": "Total",
+    "step2Title": "Datos del pedido",
+    "name": "Nombre",
+    "namePlaceholder": "Tu nombre",
+    "paymentMethod": "Método de pago",
+    "transfer": "Transferencia",
+    "card": "Tarjeta",
+    "cash": "Efectivo",
+    "orderType": "Tipo de pedido",
+    "dineIn": "En mesa",
+    "delivery": "Domicilio",
+    "address": "Dirección",
+    "addressPlaceholder": "Tu dirección de entrega",
+    "sendWhatsApp": "Enviar pedido por WhatsApp",
+    "completeFields": "Completa los campos requeridos",
+    "products": "productos",
+    "table": "Mesa",
+    "changeTable": "Cambiar",
+    "selectTable": "Selecciona tu mesa"
+  },
+  "table": {
+    "badge": "Mesa",
+    "selectTitle": "Selecciona tu mesa",
+    "currentlyAt": "Actualmente en Mesa",
+    "scanQR": "Escanear código QR",
+    "scanQRSub": "Usa tu cámara",
+    "removeTable": "Quitar mesa",
+    "scanTitle": "Escanear QR",
+    "back": "Volver",
+    "assigned": "Mesa asignada",
+    "cameraError": "No se pudo acceder a la cámara"
+  },
+  "reservations": {
+    "title": "Reservar Mesa",
+    "name": "Nombre",
+    "namePlaceholder": "Tu nombre completo",
+    "people": "Personas",
+    "date": "Fecha",
+    "selectDate": "Seleccionar fecha",
+    "time": "Hora",
+    "selectDateFirst": "Selecciona una fecha primero",
+    "noSchedule": "No hay horarios disponibles para este día",
+    "closedDay": "No hay servicio este día. Selecciona otra fecha.",
+    "morning": "MAÑANA",
+    "afternoon": "TARDE",
+    "evening": "NOCHE",
+    "comments": "Comentarios adicionales",
+    "commentsPlaceholder": "Algún requerimiento especial...",
+    "submit": "Enviar reserva por WhatsApp",
+    "completeFields": "Completa los campos requeridos",
+    "required": "Campo requerido"
+  },
+  "schedule": {
+    "title": "Horarios y Ubicación",
+    "hours": "Horarios",
+    "location": "Ubicación",
+    "deliveryNote": "Domicilios a todo Pereira, Risaralda",
+    "howToGet": "Cómo llegar",
+    "googleMaps": "Google Maps",
+    "waze": "Waze",
+    "appleMaps": "Apple Maps",
+    "reserveTable": "Reservar mesa",
+    "orderWhatsApp": "Pedir por WhatsApp"
+  },
+  "history": {
+    "title": "Nuestra Historia",
+    "content1": "Platano Loco nació de una receta familiar que ha pasado de generación en generación. Todo comenzó con la pasión de mi abuelo por el plátano maduro, una pasión que heredó mi padre y que ahora compartimos con toda Pereira.",
+    "content2": "Cada plátano que servimos lleva consigo el sabor de la tradición, preparado con el mismo amor y dedicación que nos enseñó mi apá. Nuestro compromiso es llevar a cada mesa el auténtico sabor casero que nos hace únicos.",
+    "content3": "Desde nuestro local en el corazón de Pereira, hemos construido una comunidad de amantes del buen plátano. Te invitamos a ser parte de nuestra familia y a descubrir por qué dicen que nuestro plátano es una locura.",
+    "ctaText": "¿Ya viste nuestra carta?",
+    "viewMenu": "Ver carta"
+  },
+  "contact": {
+    "title": "Contacto",
+    "name": "Nombre",
+    "namePlaceholder": "Tu nombre",
+    "email": "Email",
+    "emailPlaceholder": "tu@email.com",
+    "phone": "Teléfono (opcional)",
+    "phonePlaceholder": "Tu teléfono",
+    "reason": "Motivo de contacto",
+    "reasonPlaceholder": "Selecciona un motivo",
+    "reasons": {
+      "franchise": "Franquicia",
+      "supplier": "Proveedor",
+      "collaboration": "Colaboración",
+      "events": "Eventos",
+      "birthday": "Cumpleaños",
+      "other": "Otros"
+    },
+    "message": "Mensaje",
+    "messagePlaceholder": "Escribe tu mensaje...",
+    "submit": "Enviar mensaje por WhatsApp",
+    "completeFields": "Completa los campos requeridos"
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados",
+    "madeBy": "Sitio web creado por",
+    "followUs": "Síguenos",
+    "deliveryNote": "Domicilios a todo Pereira, Risaralda"
+  },
+  "cta": {
+    "explore": "¿Quieres explorar más?",
+    "description": "Descubre nuestros plátanos maduros preparados con la receta de mi apá y vive una experiencia única en Pereira.",
+    "viewMenu": "Ver carta"
+  },
+  "breadcrumb": {
+    "home": "Inicio"
+  },
+  "days": {
+    "monday": "Lunes",
+    "tuesday": "Martes",
+    "wednesday": "Miércoles",
+    "thursday": "Jueves",
+    "friday": "Viernes",
+    "saturday": "Sábado",
+    "sunday": "Domingo"
+  },
+  "scheduleData": {
+    "monSun": "Lunes a Domingo: 4:30 PM - 10:00 PM"
+  }
+}

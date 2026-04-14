@@ -1,0 +1,149 @@
+{
+  "nav": {
+    "menu": "Menu",
+    "reservations": "Reservations",
+    "schedule": "Hours",
+    "history": "History",
+    "contact": "Contact"
+  },
+  "hero": {
+    "phrase": "RIPE PLANTAIN, MY DAD'S RECIPE",
+    "viewMenu": "View our menu",
+    "reserveTable": "Reserve a table",
+    "rateGoogle": "Rate on Google",
+    "rateTripAdvisor": "Rate on TripAdvisor"
+  },
+  "menu": {
+    "title": "Our Menu",
+    "viewDish": "View dish",
+    "add": "Add",
+    "vegetarian": "Vegetarian"
+  },
+  "cart": {
+    "title": "Your Order",
+    "empty": "Your cart is empty",
+    "continue": "Continue",
+    "deleteOrder": "Delete your order",
+    "back": "Back",
+    "total": "Total",
+    "step2Title": "Order details",
+    "name": "Name",
+    "namePlaceholder": "Your name",
+    "paymentMethod": "Payment method",
+    "transfer": "Transfer",
+    "card": "Card",
+    "cash": "Cash",
+    "orderType": "Order type",
+    "dineIn": "Dine in",
+    "delivery": "Delivery",
+    "address": "Address",
+    "addressPlaceholder": "Your delivery address",
+    "sendWhatsApp": "Send order via WhatsApp",
+    "completeFields": "Complete required fields",
+    "products": "products",
+    "table": "Table",
+    "changeTable": "Change",
+    "selectTable": "Select your table"
+  },
+  "table": {
+    "badge": "Table",
+    "selectTitle": "Select your table",
+    "currentlyAt": "Currently at Table",
+    "scanQR": "Scan QR code",
+    "scanQRSub": "Use your camera",
+    "removeTable": "Remove table",
+    "scanTitle": "Scan QR",
+    "back": "Back",
+    "assigned": "Table assigned",
+    "cameraError": "Could not access camera"
+  },
+  "reservations": {
+    "title": "Reserve a Table",
+    "name": "Name",
+    "namePlaceholder": "Your full name",
+    "people": "Guests",
+    "date": "Date",
+    "selectDate": "Select a date",
+    "time": "Time",
+    "selectDateFirst": "Select a date first",
+    "noSchedule": "No available times for this day",
+    "closedDay": "No service this day. Select another date.",
+    "morning": "MORNING",
+    "afternoon": "AFTERNOON",
+    "evening": "EVENING",
+    "comments": "Additional comments",
+    "commentsPlaceholder": "Any special requirements...",
+    "submit": "Send reservation via WhatsApp",
+    "completeFields": "Complete required fields",
+    "required": "Required field"
+  },
+  "schedule": {
+    "title": "Hours & Location",
+    "hours": "Hours",
+    "location": "Location",
+    "deliveryNote": "Delivery across all of Pereira, Risaralda",
+    "howToGet": "How to get here",
+    "googleMaps": "Google Maps",
+    "waze": "Waze",
+    "appleMaps": "Apple Maps",
+    "reserveTable": "Reserve a table",
+    "orderWhatsApp": "Order via WhatsApp"
+  },
+  "history": {
+    "title": "Our Story",
+    "content1": "Platano Loco was born from a family recipe passed down through generations. It all started with my grandfather's passion for ripe plantain, a passion my father inherited and that we now share with all of Pereira.",
+    "content2": "Every plantain we serve carries the flavor of tradition, prepared with the same love and dedication that my dad taught us. Our commitment is to bring the authentic homemade flavor that makes us unique to every table.",
+    "content3": "From our location in the heart of Pereira, we've built a community of lovers of great plantain. We invite you to be part of our family and discover why they say our plantain is crazy good.",
+    "ctaText": "Have you seen our menu?",
+    "viewMenu": "View menu"
+  },
+  "contact": {
+    "title": "Contact",
+    "name": "Name",
+    "namePlaceholder": "Your name",
+    "email": "Email",
+    "emailPlaceholder": "your@email.com",
+    "phone": "Phone (optional)",
+    "phonePlaceholder": "Your phone number",
+    "reason": "Contact reason",
+    "reasonPlaceholder": "Select a reason",
+    "reasons": {
+      "franchise": "Franchise",
+      "supplier": "Supplier",
+      "collaboration": "Collaboration",
+      "events": "Events",
+      "birthday": "Birthday",
+      "other": "Other"
+    },
+    "message": "Message",
+    "messagePlaceholder": "Write your message...",
+    "submit": "Send message via WhatsApp",
+    "completeFields": "Complete required fields"
+  },
+  "footer": {
+    "rights": "All rights reserved",
+    "madeBy": "Website created by",
+    "followUs": "Follow us",
+    "deliveryNote": "Delivery across all of Pereira, Risaralda"
+  },
+  "cta": {
+    "explore": "Want to explore more?",
+    "description": "Discover our ripe plantains prepared with my dad's recipe and live a unique experience in Pereira.",
+    "viewMenu": "View menu"
+  },
+  "breadcrumb": {
+    "home": "Home"
+  },
+  "days": {
+    "monday": "Monday",
+    "tuesday": "Tuesday",
+    "wednesday": "Wednesday",
+    "thursday": "Thursday",
+    "friday": "Friday",
+    "saturday": "Saturday",
+    "sunday": "Sunday"
+  },
+  "scheduleData": {
+    "monSun": "Monday to Sunday: 4:30 PM - 10:00 PM"
+  }
+}
