@@ -52,6 +52,13 @@
   height: 100%;
 }
 
+button,
+a,
+[role="button"],
+select {
+  cursor: pointer;
+}
+
 html {
   scroll-behavior: smooth;
 }
