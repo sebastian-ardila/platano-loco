@@ -19,12 +19,15 @@ export default function Hero() {
   return (
     <section id="hero" className="relative flex min-h-screen items-center justify-center overflow-hidden">
       {/* Video background */}
+      {/* eslint-disable-next-line jsx-a11y/media-has-caption */}
       <video
         autoPlay
         muted
         loop
         playsInline
-        className="absolute inset-0 h-full w-full object-cover"
+        controls={false}
+        preload="auto"
+        className="pointer-events-none absolute inset-0 h-full w-full object-cover"
       >
         <source src={import.meta.env.BASE_URL + 'video-hero-1.webm'} type="video/webm" />
         <source src={import.meta.env.BASE_URL + 'video-hero-1.mp4'} type="video/mp4" />
